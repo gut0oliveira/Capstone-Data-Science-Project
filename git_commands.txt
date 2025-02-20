@@ -1,5 +1,0 @@
-cd C:\\Users\\augus\\Capstone-Data-Science-Project
-git status
-git add .
-git commit -m "Mensagem do commit"
-git push origin main
